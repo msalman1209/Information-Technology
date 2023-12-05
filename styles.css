@@ -32,6 +32,11 @@ a{
 .p{
     color: whitesmoke;
 }
+p {
+    text-align: center;
+    font-size: xx-large;
+}
+
 #laws{
     width: 40vw;
     height: 80vh;
