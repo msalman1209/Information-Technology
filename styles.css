@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background: lightblue;
+}
 #navbar{
     display: flex;
     justify-content:space-between ;
@@ -33,6 +36,8 @@ p {
     text-align: center;
     font-size: xx-large;
 }
-#sandra{
-    margin-left: 10%;
+
+#laws{
+    width: 40vw;
+    height: 80vh;
 }
