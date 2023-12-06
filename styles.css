@@ -29,14 +29,20 @@ a{
     background-color: black;
     margin-top: 1%;
 }
-.p{
+.pa{
     color: whitesmoke;
+    text-align: center;
+    font-size: xx-large;
 }
-p {
+.p {
+    font-size: xx-large;
     text-align: center;
 }
 
 #laws{
     width: 40vw;
     height: 80vh;
+}
+#sandra{
+    margin-left: 10%;
 }
